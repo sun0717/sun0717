@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+👨‍🚒 About Me
+- 🔭 我正在为我的硕士学位努力
+- 🌱 我的目标是成为一名前端开发工程师
+- 😄 积极、努力
 <!--
 **sun0717/sun0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
